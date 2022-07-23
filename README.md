@@ -48,7 +48,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 $ git clone https://github.com/thirdeyedevs/xphisher
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `zphisher.sh` 
 ```
 $ cd zphisher
 $ bash zphisher.sh
@@ -56,11 +56,6 @@ $ bash zphisher.sh
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
 
-### Run on Docker
-```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
-```
 
 ### Dependencies
 
@@ -76,12 +71,10 @@ $ docker run --rm -it htrtech/zphisher
 
 ##
 
-<h3 align="center">
-:: Workflow ::
-</h3>
-<p align="center">
-<img src=".imgs/wf.gif"/>
-</p>
+### Modifier
+```
+Faraz Khan & Saara Khan
+```
 
 ### Special Thanks :
 
