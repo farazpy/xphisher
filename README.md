@@ -71,7 +71,7 @@ $ bash zphisher.sh
 
 ##
 
-### Modifier
+### Tool Producer
 ```
 Faraz Khan & Saara Khan
 ```
