@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
-</p>
 
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
 
@@ -91,7 +86,7 @@ $ docker run --rm -it htrtech/zphisher
 ### Special Thanks :
 
 - [**Faraz Khan**](https://instander.in)
-- [**Kalyani Patil **](https://xfly.cf/)
+- [**Kalyani Patil**](https://xfly.cf/)
 - [**Krogon 600**](https://github.com/Yisus7u7)
 - [**sepp0**](https://github.com/sepp0)
 - [**AliMilani**](https://github.com/AliMilani)
